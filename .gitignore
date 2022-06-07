@@ -10,3 +10,4 @@ mykey.json
 run/airflow/*cfg
 run/airflow/airflow.db
 default.profraw
+venv/
